@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Xiangtan University</a>. Email: jpzhang@xtu.edu.cn. WeChat: jhilbert.
+subtitle: <a href='#'>Xiangtan University</a>. jpzhang@xtu.edu.cn. jhilbert.
 
 profile:
   align: right
