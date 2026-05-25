@@ -2,16 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Xiangtan University</a>. Room A422, Math. Nuilding. Contacts. Motto. Etc.
+subtitle: <a href='#'>Xiangtan University</a>.**Email:** jpzhang@xtu.edu.cn. **WeChat:** jhilbert.
 
 profile:
   align: right
   image: jpZHang1.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>+086 15673233228</p>
+    <p>Room A422, Math. Building</p>
+    <p>Xiangda Road, Yanggutang Street</p>
+    <p>Xiangtan, 411105 China</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
