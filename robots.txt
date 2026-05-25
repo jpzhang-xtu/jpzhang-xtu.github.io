@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jpzhang-xtu.github.io/jpz/sitemap.xml
+Sitemap: https://jpzhang-xtu.github.io/sitemap.xml
