@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Xiangtan University</a>. Room A422, Math. Building. Email:jpzhang@xtu.edu.cn. WeChat: jhilbert.
 
 profile:
   align: right
