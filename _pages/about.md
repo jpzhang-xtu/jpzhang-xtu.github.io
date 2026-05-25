@@ -3,10 +3,14 @@ layout: about
 title: about
 permalink: /
 <<<<<<< HEAD
+<<<<<<< HEAD
 subtitle: <a href='#'>Xiangtan University</a>. Room A422, Math. Nuilding. Contacts. Motto. Etc.
 =======
 subtitle: <a href='#'>Xiangtan University</a>. **Email:** jpzhang@xtu.edu.cn. **WeChat:** jhilbert.
 >>>>>>> 4b3bb0479650e59279acc9063956302216b3da85
+=======
+subtitle: <a href='#'>Xiangtan University</a>. **Email:** jpzhang@xtu.edu.cn. **WeChat:** jhilbert.
+>>>>>>> 027426bfe3eea8c5a5df36b8f6372b7ff25bd3d6
 
 profile:
   align: right
