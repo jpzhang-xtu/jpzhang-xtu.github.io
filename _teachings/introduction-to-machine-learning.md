@@ -2,7 +2,7 @@
 layout: course
 title: Introduction to Machine Learning
 description: This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.
-instructor: Prof. **Jianping Zhang**
+instructor: Prof. Jianping Zhang
 year: 2026
 term: Spring
 location: Information Science Building, Room JT04
