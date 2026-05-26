@@ -1,44 +1,33 @@
 - **Recent successfully completed Ph.D / M.Phil projects**
   - 2026.06
     - **M.Phil Degree** (2023.09 -- 2026.06)
-
-    `Weihao Li`, `Tian He`, `Shuxian Li`, `Xin Xiao`, `Tianze Li`, `Peilin Li`
+      - `Weihao Li`, `Tian He`, `Shuxian Li`, `Xin Xiao`, `Tianze Li`, `Peilin Li`
     - **Ph.D Degree** (2023.09 -- 2026.06)
-
-    `Zhichao Zuo` (Xiangtan Central Hospital & The Third Xiangya Hospital of Central South University) 
+      - `Zhichao Zuo` (Xiangtan Central Hospital & The Third Xiangya Hospital of Central South University) 
   - 2025.06
     - **M.Phil Degree** (2022.09 -- 2025.06)
-
-    `Sisi Chen`, `Xining Xiao`, `Yan Wang`, `Xiaoyan Lin`, `Zhang Guo`
+      - `Sisi Chen`, `Xining Xiao`, `Yan Wang`, `Xiaoyan Lin`, `Zhang Guo`
     - **Ph.D Degree** (2021.09 -- 2025.06)
-
-     `Yujie Feng` (Collaborating PhD, Hunan Agricultural University)
+      - `Yujie Feng` (Collaborating PhD, Hunan Agricultural University)
   - 2024.06
     - **M.Phil Degree** (2021.09 -- 2024.06)
-
-    `Tianzhi Zhou`, `Aoxu Liu`, `Junfeng Zhao`, `Yunhui Shi`
+      - `Tianzhi Zhou`, `Aoxu Liu`, `Junfeng Zhao`, `Yunhui Shi`
     - **Ph.D Degree** (2020.09 -- 2024.06)
-
-    `Yanyan Li` (Hunan University of Technology)\\
-    `Xiaohong Fan` (Collaborating PhD, Zhejiang Normal University)\\
-    `Hui Zhu` (Collaborating PhD, Hunan Institute of Engineering)
+      - `Yanyan Li` (Hunan University of Technology)
+      - `Xiaohong Fan` (Collaborating PhD, Zhejiang Normal University)
+      - `Hui Zhu` (Collaborating PhD, Hunan Institute of Engineering)
   - 2023.06
     - **M.Phil Degree** (2020.09 -- 2023.06)
-    
-    `Shuhui Jia`, `Liujue Li`, `Peiyue Liu`, `Tiejun Xiong`, `Jinqiu Deng`, `Xin Li` (Collaborating Master);
+    - `Shuhui Jia`, `Liujue Li`, `Peiyue Liu`, `Tiejun Xiong`, `Jinqiu Deng`, `Xin Li` (Collaborating Master);
   - 2022.06
     - **M.Phil Degree** (2019.09 -- 2022.06)
-    
-    `Qi Yang`, `Yirong Li`, `Rui Li`
+    - `Qi Yang`, `Yirong Li`, `Rui Li`
   - 2021.06
     - **M.Phil Degree** (2018.09 -- 2021.06)
-    
-    `Yu Wang`, `Ting Liu`, `Xiaohong Fan` (Collaborating Master), `Qing Zuo` (Collaborating Master)
+    - `Yu Wang`, `Ting Liu`, `Xiaohong Fan` (Collaborating Master), `Qing Zuo` (Collaborating Master)
   - 2020.06
     - **M.Phil Degree** (2017.09 -- 2020.06)
-    
-    `Yanyan Li`, `Hui Zhu`
+    - `Yanyan Li`, `Hui Zhu`
   - 2019.06
     - **M.Phil Degree** (2016.09 -- 2019.06)
-    
-    `Jianqing Zhu`, `Xiangpeng Li`
+    - `Jianqing Zhu`, `Xiangpeng Li`
