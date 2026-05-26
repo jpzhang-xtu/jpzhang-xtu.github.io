@@ -1,17 +1,17 @@
 ---
 layout: course
-title: Data Science Fundamentals
-description: This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.
-instructor: Prof. Data
-year: 2024
-term: Spring
-location: Science Building, Room 202
+title: Deep Learning Fundamentals
+description: This course covers the foundational aspects of deep learning, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.
+instructor: Prof. Jianping Zhang
+year: 2025
+term: Fall
+location: Run Run Shaw Building, Room 309
 time: Mondays and Wednesdays, 2:00-3:30 PM
-course_id: data-science-fundamentals
+course_id: Math-DS-deeplearning
 schedule:
   - week: 1
     date: Feb 5
-    topic: Introduction to Data Science
+    topic: Introduction to Deep Learning
     description: Overview of the data science workflow and key concepts.
     materials:
       - name: Syllabus
