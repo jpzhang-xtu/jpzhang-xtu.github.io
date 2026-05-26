@@ -51,12 +51,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
+        },{id: "nav-students",
+          title: "students",
+          description: "members of the `Medical Imaging and Mathematical Technology (MIMT)` research group",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/people/";
+            window.location.href = "/Students/";
           },
         },{id: "dropdown-bookshelf",
               title: "bookshelf",
