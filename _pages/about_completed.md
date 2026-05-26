@@ -15,13 +15,12 @@
      `Yujie Feng` (Collaborating PhD, Hunan Agricultural University)
   - 2024.06
     - **M.Phil Degree** (2021.09 -- 2024.06)
+
     `Tianzhi Zhou`, `Aoxu Liu`, `Junfeng Zhao`, `Yunhui Shi`
     - **Ph.D Degree** (2020.09 -- 2024.06)
 
-    `Yanyan Li` (Hunan University of Technology) 
-
-    `Xiaohong Fan` (Collaborating PhD, Zhejiang Normal University)
-
+    `Yanyan Li` (Hunan University of Technology)\\
+    `Xiaohong Fan` (Collaborating PhD, Zhejiang Normal University)\\
     `Hui Zhu` (Collaborating PhD, Hunan Institute of Engineering)
   - 2023.06
     - **M.Phil Degree** (2020.09 -- 2023.06)
