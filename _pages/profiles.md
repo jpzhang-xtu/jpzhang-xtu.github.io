@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /Students/
 title: students
-description: members of the `Medical Imaging and Mathematical Technology (MIMT)` research group
+description: members of the <a href='#'>Medical Imaging and Mathematical Technology (MIMT)</a> research group
 nav: true
 nav_order: 7
 
