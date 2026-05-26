@@ -122,7 +122,7 @@ cv:
         url: https://ieeexplore.ieee.org/document/11087445/
         summary: This paper proposes a novel progressive image restoration network for high-order degradation imaging (HDI-PRNet), to progressively restore different image degradation. HDI-PRNet is developed based on the theoretical framework of degradation imaging, also Markov properties of the high-order degradation process and Maximum a posteriori (MAP) estimation, offering the benefit of mathematical interpretability within the unfolding network.
 
-      - title: Nest-DGIL: Nesterov-optimized Deep Geometric Incremental Learning for CS Image Reconstruction.
+      - title: Nest-DGIL-- Nesterov-optimized Deep Geometric Incremental Learning for CS Image Reconstruction.
         authors:
           - Xiaohong Fan, Yin Yang, Ke Chen, Yujie Feng, Jianping Zhang*
         publisher: IEEE Transactions on Computational Imaging
