@@ -59,24 +59,12 @@ cv:
 
     Experience:
       - company: School of Mathematics and Computational Science, Xiangtan University
-        position: Professor of Computational Mathematics and Data Sciences.
+        position: Professor \& Associate Professor of Computational Mathematics and Data Sciences.
         location: XTU, China
-        start_date: 2022
+        start_date: 2017
         end_date: today
         summary: As a professor at XTU, I am responsible for teaching courses in data science and conducting research in the field. I also supervise graduate students and collaborate with colleagues on research projects.
-        highlights:
-          - Description 1.
-          - Description 2.
         
-      - company: School of Mathematics and Computational Science, Xiangtan University
-        position: Associate Professor of Computational Mathematics.
-        location: XTU, China
-        start_date: 2018
-        end_date: 2022
-        highlights:
-          - Description 1.
-          - Description 2.
-
       - company: Department of Mathematics, University of Liverpool
         position: Research Associate
         location: Liverpool, UK
