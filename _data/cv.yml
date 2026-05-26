@@ -30,11 +30,9 @@ cv:
         start_date: 2008
         end_date: 2012
         score: ""
-        courses: "Mathematical Problems in Image Processing, Numerical Analysis, Computational Mathematics"
-        highlights:
-          - Description 1.
-          - Description 2.
-
+        highlights: 
+          - PDE-based Image Denoising and Image Segmentation, PhD Thesis, supervised by Prof K. Chen and B. Yu. Dalian University of Technology.
+        
       - institution: Dalian University of Technology
         location: Dalian, China
         url: https://www.dlut.edu.cn/
@@ -42,10 +40,7 @@ cv:
         studyType: Master
         start_date: 2006
         end_date: 2008
-        highlights:
-          - Description 1.
-          - Description 2.
-
+        
       - institution: Xiangtan University
         location: Xiangtan, China
         url: https://www.xtu.edu.cn/
@@ -53,13 +48,11 @@ cv:
         studyType: Bachelor
         start_date: 1999
         end_date: 2003
-        highlights:
-          - Description 1.
-          - Description 2.
+        
 
     Experience:
       - company: School of Mathematics and Computational Science, Xiangtan University
-        position: Professor \& Associate Professor of Computational Mathematics and Data Sciences.
+        position: Professor & Associate Professor of Computational Mathematics and Data Sciences.
         location: XTU, China
         start_date: 2017
         end_date: today
@@ -165,19 +158,35 @@ cv:
         icon: fa-solid fa-envelope
 
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+      - name: Mechanism- and data-driven based learning methods for the spectral CT imaging inverse problem
+        summary: This project is funded by the Natural Science Foundation of Hunan Province (Grant no. 2024RC9008), 2024.07-2026.06.
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
+          - Spectral CT imaging.
+          - Deep learning methods for imaging inverse problems.
+        start_date: 2024-07-01
+        end_date: 2026-06-31
+
+      - name: Research on Deep Learning Methods for Medical Image Registration via Mathematical Mechanisms and Data Fusion
+        summary: This project is funded by the Education Bureau of Hunan Province in China (Grant no. 22A0119), 2022.09-2024.12.
+        highlights:
+          - Medical Image Registration.
+          - Deep learning methods for imaging inverse problems.
+        start_date: 2022-09-01
+        end_date: 2024-12-31
+
+      - name: Research on inverse problem and efficient algorithm in multimodal medical image processing
+        summary: This project is funded by the National Natural Science Foundation of China (NSFC project 11771369), 2018.01-2021.12.
+        highlights:
+          - Medical image processing, including image denoising, image segmentation, and image registration.
+          - Fast algorithms for solving the proposed models, including augmented Lagrangian methods and primal-dual methods.
         start_date: 2018-01-01
-        end_date: 2018-01-01
+        end_date: 2021-12-31
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Study of Variational Models and Fast Algorithms on Extraction of 3D Medical Anatomical Structures
+        summary: This project is funded by the National Natural Science Foundation of China (NSFC project 11301447), 2014.01-2016.12.
+        highlights:
+          - Structural health monitoring, including damage detection and damage localization.
+          - Tissue quality prediction, including tissue classification and tissue segmentation.
+        start_date: 2013-01-01
+        end_date: 2016-12-31
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
