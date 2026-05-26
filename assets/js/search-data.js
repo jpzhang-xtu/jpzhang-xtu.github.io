@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "As a professor at XTU, I am responsible for teaching courses in data science and conducting research in the field. I also supervise graduate students and collaborate with colleagues on research projects. My research interests include mathematical problems in image processing, numerical analysis, computational mathematics, machine learning and deep learning.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
